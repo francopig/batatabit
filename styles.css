@@ -503,6 +503,7 @@ main {
   color: var(--black);
 }
 
+
 .plan-card--ca span{
   display: inline-block;
   width: 20px;
@@ -511,6 +512,11 @@ main {
   vertical-align: text-bottom;
 }
 
+.plan-info-container button:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: var(--bitcoin-orange);
+}
 .plans-container--slider{
   display: flex;
   height: 316px;
