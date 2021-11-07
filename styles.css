@@ -39,8 +39,6 @@ header{
   min-width: 320px;
   height: 334px;
   text-align: center;
-  /* align-items: center; */
-
   background: linear-gradient(207.8deg, #201e1c 16.69%, #f7931a 100%);
 }
 
